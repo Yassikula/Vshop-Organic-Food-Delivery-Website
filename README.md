@@ -1,3 +1,5 @@
-# Vshop-Organic-Food-Delivery-Website
+# Vshop-Organic-Food-Delivery-Website :corn: :tomato:
 
-This is an Organic food delivery website implemented using PHP, HTML, CSS and JavaScript.
+This is an Organic food delivery website.
+
+Implemented using PHP, HTML, CSS and JavaScript.

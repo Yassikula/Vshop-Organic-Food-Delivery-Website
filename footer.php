@@ -9,22 +9,16 @@
 	
 
 
-<!-- header styles -->
 	<link rel="stylesheet" href="css/animate.css">
-	<!-- Icomoon Icon Fonts-->
-	<!-- <link rel="stylesheet" href="css/icomoon.css"> -->
-	<!-- Bootstrap  -->
+
 	<link rel="stylesheet" href="css/bootstrap.css">
 
-	<!-- Magnific Popup -->
 	<link rel="stylesheet" href="css/magnific-popup.css">
 
 
-
-	<!-- Theme style  -->
 	<link rel="stylesheet" href="css/about_style/style.css">
 
-	<!-- Modernizr JS -->
+
 	<script src="js/modernizr-2.6.2.min.js"></script>
 
 
@@ -32,20 +26,13 @@
 
 	<style>
 		.footer {
-   /* position: fixed; */
-       /* margin-top: auto;
-   left: 0;
-   bottom: 0px; */
+  
    width: 100%;
    /* background-color: red; */
    color: white;
    text-align: center;
 }
-/* body{
 
-	background: #cccccc38!important;
-	margin-top: 154px;
-} */
 p{
     font-family: "Poppins", Arial, sans-serif;
     font-weight: 300;
@@ -58,7 +45,6 @@ p{
 	top: -300px;
     /* left: 573px; */
     left: 503px;
-    /* position: relative; */
 }
 .formemail{
 
@@ -121,12 +107,7 @@ p{
 
 			
 
-			<!-- <div class="news"> -->
-<!-- 			
-				<h4 >New Letter</h4>
-		<a>Sign up to our newsletter to get all </a><br>
-		<a>the latest offers and promotions.</a> -->
-		<!-- </div> -->
+
 			<input type="text" name="email" placeholder="Your email" class="formemail" style=" width: 222px; height: 37px;">
 			<button class="btn btn-primary" style="   border: none;
     border-radius: unset;  left: 503px;   position: relative;top: 526px;   width: 74px; top: -327px; background: rgba(181, 155, 110, 1);" data-loading-text="<span>Send</span>"><span>Send</span></button>

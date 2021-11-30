@@ -1,5 +1,4 @@
 
-
 <!DOCTYPE HTML>
 <html>
 
@@ -7,19 +6,11 @@
 	<head>
 			
 	
-
-
 	<link rel="stylesheet" href="css/animate.css">
-
 	<link rel="stylesheet" href="css/bootstrap.css">
-
-	<link rel="stylesheet" href="css/magnific-popup.css">
-
-
+<link rel="stylesheet" href="css/magnific-popup.css">
 	<link rel="stylesheet" href="css/about_style/style.css">
-
-
-	<script src="js/modernizr-2.6.2.min.js"></script>
+<script src="js/modernizr-2.6.2.min.js"></script>
 
 
 	</head>
@@ -70,7 +61,6 @@ p{
 						<ul class="colorlib-social-icons">
 										<li><a style="color:white" href="#"><i class="fa fa-facebook-f"></i></a></li>
 										<li><a style="color:white" href="#"><i class="fa fa-linkedin"></i></a></li>
-										<li><a style="color:white" href="#"><i class="fa fa-twitter"></i></a></li>
 										<li><a style="color:white" href="#"><i class="fa fa-whatsapp"></i></a></li>
 									</ul>
 						</p>
@@ -86,7 +76,6 @@ p{
 
 								<li><a href="aboutus.php"><i class="icon-check"></i> About</a></li>
 								<li><a href="contact.php"><i class="icon-check"></i> Contact</a></li>
-								<!-- <li><a href="#"><i class="icon-check"></i> Privacy</a></li> -->
 							</ul>
 						</p>
 					</div>
@@ -99,7 +88,6 @@ p{
 							<li> 198 Main Street, <br> Park Avenue Colombo 08</li>
 							<li><a href="tel://1234567920"><i class="material-icons">call</i> + 01135 2355 98</a></li>
 							<li><a href="mailto:info@yoursite.com"><i class="material-icons">email</i> info@yoursite.com</a></li>
-							<!-- <li><a href="#"><i class="icon-location4"></i> yourwebsite.com</a></li> -->
 						</ul>
 					</div>
 				</div>
